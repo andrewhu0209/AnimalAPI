@@ -19,6 +19,7 @@ public class ZooAbstractAnimalAPI {
 			animal.move();
 			animal.speak();
 			System.out.println(animal);
+			System.out.println("");
 		}
 
 	}

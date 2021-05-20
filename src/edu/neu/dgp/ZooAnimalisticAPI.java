@@ -17,6 +17,7 @@ public class ZooAnimalisticAPI {
 			animal.move();
 			animal.speak();
 			System.out.println(animal);
+			System.out.println("");
 		}
 
 	}
